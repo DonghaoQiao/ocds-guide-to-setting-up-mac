@@ -2,7 +2,7 @@
 
 ## How to setup a efficient working environment
 
-*Translated from [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac#强迫症的-mac-设置指南), thanks to author: QiXi from Thoughtworks China - fff*
+*Translated from [强迫症的Mac设置指南](https://github.com/DonghaoQiao/ocds-guide-to-setting-up-mac/blob/master/README.md), thanks to author: QiXi from Thoughtworks China - fff*
 
 ## Table of Contents
   * [1. macOS](#1-macos)
